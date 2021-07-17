@@ -14,7 +14,7 @@ author_profile: true
 > **Abinash Sinha** and Akshay Sinha. Planning to submit in International Conference on Sport Science and Physical Education 2021.
 
 > ***DeepPhotAstro*: Early Photometric LSST Astronomical Time-Series Classisication using Deep Learning.** [[GitHub](https://github.com/abinashsinha330/DeepPhotAstro)]<br/>
-> **Abinash Sinha**, Darry Wright and Dr. Lucy Fortson. Planning for a conference submission in early 2022.
+> **Abinash Sinha**, Dr. Darryl Wright and Dr. Lucy Fortson. Planning for a conference submission in early 2022.
 
 > ***PredAir*: Forecasting Air Pollution using Feature-wise Temporal Pattern Attention.** [[GitHub](https://github.com/abinashsinha330/Forecasting-Air-Pollution-using-Temporal-Pattern-Attention)]<br/>
 > **Abinash Sinha**. Spring 2019.
