@@ -24,9 +24,9 @@ My current research is on recommending video in MOOCs using self-supervised lear
 
 > **University of Minnesota, Twin Cities** (GPA: 3.89/4.00)  <br/>
 > M.S. in Computer Science  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018 - 2021 <br/>
-> Advisor: Dr. Jaideep Srivastava<br/>
-> Graduate RA Advisor: Dr. Lucy Fortson<br/>
+Advisor: Dr. Jaideep Srivastava (Professor, Department of Computer Science & Engineerin)<br/>
+Graduate RA Advisor: Dr. Lucy Fortson (Professor, School of Physics and Astronomy)<br/>
 
 > **Indian Institute of Technology, Kharagpur** (GPA: 7.53/10) <br/>
 > B.Tech. in Instrumentation Engineering  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2011 - 2015 <br/>
-> Advisor: Dr. Alok Kanti Deb<br/>
+Advisor: Dr. Alok Kanti Deb (Associate Professor, Electrical Engineering)<br/>
