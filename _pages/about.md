@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I hope everyone who visits me here eventually gets to know where I am heading to in terms of my pursuits. I completed my M.S. from University of Minnesota advised by Dr. Jaideep Srivastava. Previously, I was advised by Dr. Lucy Fortson, working as a *Graduate Research Assistant* on an NSF-funded project related to [LSST](https://www.lsst.org/) telescope. My research interests are in deep learning, machine learning, sequential recommender system and educational data analytics.
+Hello! I hope everyone who visits me here eventually gets to know where I am heading to in terms of my pursuits. I completed my M.S. from University of Minnesota advised by Dr. Jaideep Srivastava. Previously, I was advised by Dr. Lucy Fortson, working as a *Graduate Research Assistant* on an NSF-funded project related to [LSST](https://www.lsst.org/). My research interests are in deep learning, machine learning, sequential recommender system and educational data analytics.
 
 I would love to be able to get my hands dirty in sustainability analytics someday. The reason being that I am beginning to believe that sustainability should be the core to whatever we do.
 
@@ -18,7 +18,7 @@ Apart from academia, I love playing soccer and badminton, basically into sports.
 
 ## Research
 
-My current research is on recommending video in MOOCs using self-supervised learning by understanding their intrinsic intentions during a student's learning journey. Through this short research journey, I have gotten acquainted with the world of representation learning for sequential data. Previously, I worked on analyzing time-series data of simulated LSST observations to build a deep learning framework to identify the kind of astronomical event that caused those observations.
+My current research is on recommending video in MOOCs using self-supervised learning by understanding their intrinsic intentions during a student's learning journey. Through this short research journey, I have gotten acquainted with the world of representation learning for sequential data. Previously, I worked on analyzing time-series data of simulated [LSST](https://www.lsst.org/) observations to build a deep learning framework to identify the kind of astronomical event that caused those observations.
 
 ## Education
 
