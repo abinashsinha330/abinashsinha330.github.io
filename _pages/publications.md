@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 > ***MOOCRec*: Disentangled Self-supervision for Recommending Video in MOOCs.**  [[GitHub](https://github.com/abinashsinha330/MOOCRec)]<br/>
