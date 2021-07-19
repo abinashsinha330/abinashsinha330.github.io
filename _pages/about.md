@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I hope everyone who visits me here eventually gets to know where I am heading to in terms of my pursuits. I completed my M.S. from University of Minnesota advised by Dr. Jaideep Srivastava. Previously, I was advised by Dr. Lucy Fortson, working as a *Graduate Research Assistant* on an NSF-funded project related to [LSST](https://www.lsst.org/). My research interests are in deep learning, machine learning, sequential recommender system and educational data analytics.
+Hello! I hope everyone who visits me here eventually gets to know where I am heading to in terms of my pursuits. I completed my M.S. from University of Minnesota advised by Dr. Jaideep Srivastava. Previously, I was advised by Dr. Lucy Fortson, working as a *Graduate Research Assistant* on an NSF-funded project related to [LSST](https://www.lsst.org/). My research interests are in deep learning, machine learning and sequential recommender system.
 
 I would love to be able to get my hands dirty in sustainability analytics someday. The reason being that I am beginning to believe that sustainability should be the core to whatever we do.
 
