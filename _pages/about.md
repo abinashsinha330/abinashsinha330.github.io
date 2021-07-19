@@ -14,11 +14,9 @@ I would love to be able to get my hands dirty in sustainability analytics someda
 
 Apart from academia, I love playing soccer and badminton, basically into sports. Other interests include dancing, hiking and kayaking. I am a huge soccer nerd (in fact one of my projects was related to soccer analytics!). Though, I prefer calling it football.
 
-**Contact**: sinha160@umn.edu
-
 ## Research
 
-My current research is on recommending video in MOOCs using self-supervised learning by understanding their intrinsic intentions during a student's learning journey. Through this short research journey, I have gotten acquainted with the world of representation learning for sequential data. Previously, I worked on analyzing time-series data of simulated [LSST](https://www.lsst.org/) observations to build a deep learning framework to identify the kind of astronomical event that caused those observations.
+My current research is on recommending video in MOOCs using **self-supervised learning** and **mutual information maximization** by understanding their intrinsic intentions during a student's learning journey. Through this short research journey, I have gotten acquainted with the world of representation learning for sequential data. Previously, I worked on analyzing time-series data of simulated [LSST](https://www.lsst.org/) observations to build a deep learning framework to identify the type of astronomical event that caused those observations.
 
 ## Education
 
